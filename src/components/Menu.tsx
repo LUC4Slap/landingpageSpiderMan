@@ -11,7 +11,7 @@ export default function Menu() {
         <a href="">Gameplay</a>
       </nav>
       <div>
-        <button className="rounded-2xl flex-1 border-2 p-2">
+        <button className="rounded-2xl flex-1 border-[1px] p-2">
           Adicionar ao carrinho
         </button>
       </div>
