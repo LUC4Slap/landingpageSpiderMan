@@ -1,4 +1,4 @@
-import { Logo } from "./Logo";
+import { Logo } from './Logo';
 
 export default function Menu() {
   return (
@@ -11,7 +11,7 @@ export default function Menu() {
         <a href="">Gameplay</a>
       </nav>
       <div>
-        <button className="rounded-2xl flex-1 border-2 border-l-rose-950 p-2">
+        <button className="rounded-2xl flex-1 border-2 p-2">
           Adicionar ao carrinho
         </button>
       </div>
