@@ -13,7 +13,7 @@ export function Foter() {
           conhecimento.
         </p>
       </div>
-      <div className="flex items-center w-full justify-end gap-6">
+      <div className="flex items-end w-full justify-end gap-6">
         <span>Design by </span>
         <Image src={LogoBoot} alt="logo" />
       </div>
